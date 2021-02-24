@@ -15,3 +15,5 @@ https://juejin.cn/post/690220220330226483920 张图让你彻底弄懂 HTTPS 原�
 
 https://juejin.cn/post/6881755746216706062
 对不起，学会这些 Linux 知识后，我有点飘
+
+https://www.bilibili.com/video/BV1hV411a7MW?p=6
